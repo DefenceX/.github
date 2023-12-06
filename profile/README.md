@@ -1,6 +1,6 @@
 ## DefenceX on Github
 
-We have a bunch of capabilities available for non-commercial user and tools we provide as value add. Below is a summary of our software tooling:
+We have a bunch of capabilities available for non-commercial users and tools we provide. Below is a summary of our software tooling and build status:
 
 # [VivoeX](https://github.com/DefenceX/VivoeX)
 [![Action cyclone](https://github.com/DefenceX/VivoeX/actions/workflows/build-ubuntu-amd64-cyclone.yaml/badge.svg)](https://github.com/DefenceX/VivoeX/actions/workflows/build-ubuntu-amd64-cyclone.yaml)
