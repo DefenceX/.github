@@ -3,7 +3,7 @@
 We have a bunch of capabilities available for non-commercial user and tools we provide as value add. Below is a summary of our software tooling:
 
 # VivoeX
-![Version](https://defencex.github.io/ToolX/version.svg)
+![Version](https://defencex.github.io/VivoeX/version.svg)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=DefenceX_VivoeX&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=DefenceX_VivoeX)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DefenceX_VivoeX&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DefenceX_VivoeX)
@@ -19,7 +19,7 @@ Doxygen documentation is available on [Github Page](https://defencex.github.io/V
 # MediaX
 [![Action mediax](https://github.com/DefenceX/MediaX/actions/workflows/build-ubuntu-20.04-amd64.yaml/badge.svg)](https://github.com/DefenceX/MediaX/actions/workflows/build-ubuntu-20.04-amd64.yaml)
 [![Action mediax](https://github.com/DefenceX/MediaX/actions/workflows/build-ubuntu-22.04-amd64.yaml/badge.svg)](https://github.com/DefenceX/MediaX/actions/workflows/build-ubuntu-22.04-amd64.yaml)
-![Version](https://defencex.github.io/ToolX/version.svg)
+![Version](https://defencex.github.io/MediaX/version.svg)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=DefenceX_MediaX&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=DefenceX_MediaX)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DefenceX_MediaX&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DefenceX_MediaX)
