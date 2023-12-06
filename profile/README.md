@@ -22,9 +22,13 @@ A modern framework for DEF(AUST)11316 and DEF STAN 00-82 Generic Vehicle Archite
 
 A low latency DEF STAN 00-082 (VIVOE) RTP video streaming library for real time video.
 # ToolX
-[![Ubuntu Intel](https://github.com/DefenceX/ToolX/actions/workflows/build.yaml/badge.svg)](https://github.com/DefenceX/ToolX/actions/workflows/build.yaml)
+[![Ubuntu 22.04 Intel](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml/badge.svg)](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml)
 
 A GUI toolkit for debugging MediaX and VivoeX (with LdmX). 
 
+Doxygen documentation can be found on github pages [here](https://defencex.github.io/ToolX/)
+
 # LdmX
+[![Ubuntu 22.04 Intel](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml/badge.svg)](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml)
+
 
