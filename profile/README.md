@@ -3,6 +3,8 @@
 We have a bunch of capabilities available for non-commercial user and tools we provide as value add. Below is a summary of our software tooling:
 
 # [VivoeX](https://github.com/DefenceX/VivoeX)
+[![Action cyclone](https://github.com/DefenceX/VivoeX/actions/workflows/build-ubuntu-amd64-cyclone.yaml/badge.svg)](https://github.com/DefenceX/VivoeX/actions/workflows/build-ubuntu-amd64-cyclone.yaml)
+[![Action doxygen](https://github.com/DefenceX/VivoeX/actions/workflows/build-doxygen.yaml/badge.svg)](https://github.com/DefenceX/VivoeX/actions/workflows/build-doxygen.yaml)
 ![Version](https://defencex.github.io/VivoeX/version.svg)
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=DefenceX_VivoeX&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=DefenceX_VivoeX)
