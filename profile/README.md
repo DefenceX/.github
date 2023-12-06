@@ -43,4 +43,6 @@ Doxygen documentation is available on [Github Page](https://defencex.github.io/T
 # LdmX
 [![Ubuntu 22.04 Intel](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml/badge.svg)](https://github.com/DefenceX/ToolX/actions/workflows/build%20ubuntu%2022.04.yaml)
 
+This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
+
 
