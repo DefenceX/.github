@@ -47,4 +47,6 @@ Doxygen documentation is available on [Github Page](https://defencex.github.io/T
 
 This is an implementation of the GVA Land Data Model and is only available on a commercial basis. Please reach out for more details.
 
+# [SystemX](https://github.com/DefenceX/SystemX)
+The embedded OS for deployment. Signed and trusted SystemsX includes everything you need for a minimal secure, trusted operating system on which to deploy your application. Includes communications fabrics to enable massive scalable architectures and seemless interoperation with military systems for land, sea and air.
 
